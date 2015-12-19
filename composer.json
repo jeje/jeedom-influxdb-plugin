@@ -1,0 +1,12 @@
+{
+	"name": "kalixia/influxdb",
+	"description": "Plugin InfluxDB pour Jeedom",
+	"license": "AGPL",
+	"authors": [{
+		"name": "Jérôme Bernard",
+		"email": "jerome.bernard@gmail.com"
+	}],
+    "require": {
+        "influxdb/influxdb-php": "0.1.x"
+    }
+}
